@@ -81,3 +81,13 @@ module.exports = client => {
         }
     })
 }
+
+/**********************************************************
+ * @INFO
+ * Bot Coded by Just a Potato#5404 | https://dsc.gg/potatofam
+ * @INFO
+ * Work for Sylanio Development | https://sylanio.xyz
+ * @INFO
+ * Please mention him / Sylanio Development, when using this Code!
+ * @INFO
+ *********************************************************/
